@@ -1,0 +1,20 @@
+{
+"taskes":"مهام",
+   "setting":"ضبط",
+    "theme":"مظهر",
+    "dark":"ليلي",
+    "light":"نهاري",
+    "language":"اللغة",
+    "english":"انجليزي",
+    "arabic":"عربي",
+    "add_new_task":"اضافة مهمهة جديدة",
+    "title":"عنوان",
+    "description":"الوصف",
+    "select_time":"اختار الوقت",
+    "add_task":"اضف المهمة",
+   "task_description": "وصف المهمة",
+   "task_title": "عنوان المهمة",
+   "delete": "مسح",
+   "edit": "اضافة"
+
+   }

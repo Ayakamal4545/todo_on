@@ -1,0 +1,19 @@
+{
+"  taskes":"taskes",
+   "setting":"setting",
+   "add_new_task":"addnewtask",
+   "title":"title",
+   "description":"descriotion",
+   "select_time":"select time",
+    "theme":"theme",
+    "dark":"dark",
+    "light":"light",
+    "language":"Language",
+    "english":"english",
+    "arabic":"arbic",
+    "add_task":"addtask",
+    "task_description": "task_description",
+    "task_title": "task_title",
+    "delete": "delete",
+    "edit": "edit"
+}
